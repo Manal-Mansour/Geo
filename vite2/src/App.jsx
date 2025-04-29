@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <h5>Merging using the main branch</h5>
+      <h6>Merging using the mbranch</h6>
     </>
   );
 }
